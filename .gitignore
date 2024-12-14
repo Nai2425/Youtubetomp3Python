@@ -1,0 +1,8 @@
+# Ignore the .env file
+.env
+
+# FFmpeg binaries
+ffmpeg/
+
+# python environment
+myenv/
